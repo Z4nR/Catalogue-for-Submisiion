@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title">Title</string>
+    <string name="date_release">date release</string>
+    <string name="genre">genre</string>
+    <string name="tv">TV</string>
+    <string name="film">Film</string>
+</resources>
